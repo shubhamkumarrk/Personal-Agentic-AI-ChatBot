@@ -1,6 +1,6 @@
 # ShubEX
 
-BappyGPT is an open-source **agentic AI chatbot** built with **Python, FastAPI, LangGraph, LangChain, Google Gemini, Tavily, ChromaDB, and SQLite**.
+ShubEX is an open-source **agentic AI chatbot** built with **Python, FastAPI, LangGraph, LangChain, Google Gemini, Tavily, ChromaDB, and SQLite**.
 
 It supports real-time streaming chat, document uploads, retrieval-augmented generation (RAG), web search, conversation memory, and a simple web UI.
 
@@ -61,7 +61,7 @@ Optional for deployment:
 ### 1. Clone the repository
 
 ```bash
-https://github.com/shubhamkumarrk/Personal-Agentic-AI.git
+https://github.com/shubhamkumarrk/Personal-Agentic-AI-ChatBot.git
 ```
 
 ### 2. Navigate to the project directory
