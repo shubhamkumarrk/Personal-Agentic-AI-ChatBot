@@ -1,4 +1,4 @@
-# ShubGPT
+# ShubEX
 
 BappyGPT is an open-source **agentic AI chatbot** built with **Python, FastAPI, LangGraph, LangChain, Google Gemini, Tavily, ChromaDB, and SQLite**.
 
@@ -61,13 +61,13 @@ Optional for deployment:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/entbappy/BappyGPT.git
+https://github.com/shubhamkumarrk/Personal-Agentic-AI.git
 ```
 
 ### 2. Navigate to the project directory
 
 ```bash
-cd BappyGPT
+cd ShubEX
 ```
 
 ### 3. Create a virtual environment
